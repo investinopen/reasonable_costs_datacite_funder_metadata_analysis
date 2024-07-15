@@ -26,5 +26,14 @@ Once funders were standardized to a ROR ID, the "parent/child" hierarchy provide
 Figure 2. Flowchart showing process to evaluate each funder for USFF.
 </p>
 
+Results show the EMSL dominates, after that it is...
+<p align="center" width="100%">
+   <img src="./USFF_zoomedin_noEMSL_agencynameshortened_cutoff.png" width="500"/>
+</p>
+
+<p align="center">
+Figure 3. Results excluding the most often found funder, EMSL, with >300k records.
+</p>
+
 #### Related work: 
 Steinhart, G., Schares, E., Skinner, K. (2024, May 30). Navigating the future of data sharing: The impact and cost of expanded public access requirements. _IASSIST/CARTO Conference 2024_, Halifax, Nova Scotia. https://zenodo.org/records/11263223.
