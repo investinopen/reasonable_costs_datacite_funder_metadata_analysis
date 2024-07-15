@@ -1,0 +1,750 @@
+ROR_cleaned,count,year,USFF,Agency
+04rc0xn13,9278,2019,TRUE,Environmental Molecular Sciences Laboratory
+021nxhr62,2231,2019,TRUE,National Science Foundation
+027ka1x80,1452,2019,TRUE,National Aeronautics and Space Administration
+01cwqze88,165,2019,TRUE,National Institutes of Health
+02916qm60,154,2019,TRUE,United States Department of Justice
+05nwjp114,107,2019,TRUE,Office of Polar Programs
+04byxyr05,92,2019,TRUE,Eunice Kennedy Shriver National Institute of Child Health and Human Development
+01bj3aw27,67,2019,TRUE,United States Department of Energy
+00j4k1h63,52,2019,TRUE,National Institute of Environmental Health Sciences
+028rfb880,50,2019,TRUE,Office of Secretary of Energy
+01na82s61,47,2019,TRUE,United States Department of Agriculture
+00fq5cm18,38,2019,TRUE,National Institute on Drug Abuse
+05335sh79,36,2019,TRUE,Office of Juvenile Justice and Delinquency Prevention
+00g8hms52,30,2019,TRUE,Administration for Children and Families
+05qx3fv49,27,2019,TRUE,National Institute of Food and Agriculture
+02jzrsm59,25,2019,TRUE,National Institute on Alcohol Abuse and Alcoholism
+04xeg9z08,25,2019,TRUE,National Institute of Mental Health
+0121dpf30,24,2019,TRUE,Health Resources and Services Administration
+04g4sf283,24,2019,TRUE,Office of Data Science Strategy
+05gvkjb48,24,2019,TRUE,Office of the Assistant Secretary for Planning and Evaluation
+04q48ey07,23,2019,TRUE,National Institute of General Medical Sciences
+021adze67,22,2019,TRUE,United States Department of Education
+040gcmg81,22,2019,TRUE,National Cancer Institute
+03g87he71,16,2019,TRUE,Division of Environmental Biology
+02z5nhe81,14,2019,TRUE,National Oceanic and Atmospheric Administration
+043z4tv69,14,2019,TRUE,National Institute of Allergy and Infectious Diseases
+049v75w11,13,2019,TRUE,National Institute on Aging
+0447fe631,12,2019,TRUE,United States Department of Defense
+042twtr12,12,2019,TRUE,Centers for Disease Control and Prevention
+01n6e6j62,11,2019,TRUE,United States Agency for International Development
+00rk2pe57,11,2019,TRUE,Office of Naval Research
+033jnv181,10,2019,TRUE,United States Department of Health and Human Services
+02caytj08,10,2019,TRUE,Defense Advanced Research Projects Agency
+00vf4jm23,9,2019,TRUE,Administration for Community Living
+03tns0030,9,2019,TRUE,Environmental Protection Agency
+05epdh915,8,2019,TRUE,United States Army Research Office
+011e9bt93,7,2019,TRUE,United States Air Force Office of Scientific Research
+01s5ya894,7,2019,TRUE,National Institute of Neurological Disorders and Stroke
+012pb6c26,6,2019,TRUE,National Heart Lung and Blood Institute
+04k7dar27,6,2019,TRUE,United States Fish and Wildlife Service
+014a5gx79,6,2019,TRUE,United States Department of Housing and Urban Development
+035a68863,6,2019,TRUE,United States Geological Survey
+04et59085,6,2019,TRUE,Institute of Education Sciences
+03wkg3b53,5,2019,TRUE,National Eye Institute
+01rvays47,5,2019,TRUE,Division of Integrative Organismal Systems
+03zmjc935,4,2019,TRUE,US Forest Service
+00jyr0d86,4,2019,TRUE,United States Department of Homeland Security
+04mhx6838,4,2019,TRUE,National Institute on Deafness and Other Communication Disorders
+00adh9b73,4,2019,TRUE,National Institute of Diabetes and Digestive and Kidney Diseases
+04evh7y43,4,2019,TRUE,Division of Acquisition and Cooperative Support
+00baak391,4,2019,TRUE,National Human Genome Research Institute
+014geb094,3,2019,TRUE,Fulbright Program
+044zqqy65,3,2019,TRUE,National Park Service
+001xhss06,3,2019,TRUE,Directorate for Biological Sciences
+03cd02q50,3,2019,TRUE,United States Army Medical Research and Development Command
+03ccbtk93,3,2019,TRUE,Joint Fire Science Program
+03v0pmy70,3,2019,TRUE,United States Department of the Interior
+011hc8f90,2,2019,TRUE,DEVCOM Army Research Laboratory
+05mg91w61,2,2019,TRUE,Office of Basic Energy Sciences
+04b7xxn32,2,2019,TRUE,United States Social Security Administration
+02xfw2e90,2,2019,TRUE,United States Department of Transportation
+04qn9mx93,2,2019,TRUE,Division of Biological Infrastructure
+03g2zjp07,2,2019,TRUE,Congressionally Directed Medical Research Programs
+01ca2by25,2,2019,TRUE,Great Lakes Bioenergy Research Center
+00372qc85,2,2019,TRUE,National Institute of Biomedical Imaging and Bioengineering
+05c6y9623,2,2019,TRUE,Virginia Sea Grant
+0060t0j89,2,2019,TRUE,United States National Library of Medicine
+0493hgw16,2,2019,TRUE,National Institute on Minority Health and Health Disparities
+004a2wv92,2,2019,TRUE,National Institute of Dental and Craniofacial Research
+04pw6fb54,2,2019,TRUE,National Center for Advancing Translational Sciences
+00mmn6b08,2,2019,TRUE,Office of Science
+02fm3sv87,2,2019,TRUE,Office of the National Coordinator for Health Information Technology
+01tnvpc68,2,2019,TRUE,Emerging Frontiers Office
+02s42ys89,2,2019,TRUE,Pacific Northwest Research Station
+0599wfz09,1,2019,TRUE,Animal and Plant Health Inspection Service
+006zn3t30,1,2019,TRUE,National Institute of Arthritis and Musculoskeletal and Skin Diseases
+01v3fsc55,1,2019,TRUE,Office of the Director of National Intelligence
+00fj8a872,1,2019,TRUE,Office of the Director
+00b6sbb32,1,2019,TRUE,Directorate for Engineering
+0114b2m14,1,2019,TRUE,Office of Biological and Environmental Research
+029b7h395,1,2019,TRUE,Directorate for Mathematical & Physical Sciences
+006gmme17,1,2019,TRUE,United States Air Force
+047fr0y29,1,2019,TRUE,Washington Sea Grant
+03ery9d53,1,2019,TRUE,Office of Fossil Energy
+00afsp483,1,2019,TRUE,United States Army
+01kgxxx41,1,2019,TRUE,North Carolina Sea Grant
+04jaeeg73,1,2019,TRUE,Wyoming Space Grant Consortium
+02d2m2044,1,2019,TRUE,Agricultural Research Service
+02xey9a22,1,2019,TRUE,Fogarty International Center
+0006s4z66,1,2019,TRUE,Bureau of Justice Statistics
+033mqx355,1,2019,TRUE,NOAA National Marine Fisheries Service
+05xpvk416,1,2019,TRUE,National Institute of Standards and Technology
+01apwpt12,1,2019,TRUE,Sandia National Laboratories
+01sy5zn44,1,2019,TRUE,Bureau of Land Management
+034ywsh12,1,2019,TRUE,Northeast Climate Science Center
+04tz64554,1,2019,TRUE,Defense Threat Reduction Agency
+025g6sc95,1,2019,FALSE,President's Emergency Plan for AIDS Relief
+05wgkzg12,1,2019,TRUE,Division of Behavioral and Cognitive Sciences
+00whkrf32,1,2019,TRUE,Division of Graduate Education
+05r5c7c30,1,2019,TRUE,"National Institute on Disability, Independent Living, and Rehabilitation Research"
+04rc0xn13,59239,2020,TRUE,Environmental Molecular Sciences Laboratory
+021nxhr62,2849,2020,TRUE,National Science Foundation
+027ka1x80,1480,2020,TRUE,National Aeronautics and Space Administration
+05wqqhv83,707,2020,TRUE,Division of Ocean Sciences
+01cwqze88,348,2020,TRUE,National Institutes of Health
+05nwjp114,198,2020,TRUE,Office of Polar Programs
+04q48ey07,178,2020,TRUE,National Institute of General Medical Sciences
+043z4tv69,144,2020,TRUE,National Institute of Allergy and Infectious Diseases
+02916qm60,138,2020,TRUE,United States Department of Justice
+01na82s61,131,2020,TRUE,United States Department of Agriculture
+00vf4jm23,130,2020,TRUE,Administration for Community Living
+04byxyr05,129,2020,TRUE,Eunice Kennedy Shriver National Institute of Child Health and Human Development
+00j4k1h63,121,2020,TRUE,National Institute of Environmental Health Sciences
+040gcmg81,113,2020,TRUE,National Cancer Institute
+01bj3aw27,104,2020,TRUE,United States Department of Energy
+05qx3fv49,99,2020,TRUE,National Institute of Food and Agriculture
+03g87he71,71,2020,TRUE,Division of Environmental Biology
+012pb6c26,69,2020,TRUE,National Heart Lung and Blood Institute
+01s5ya894,64,2020,TRUE,National Institute of Neurological Disorders and Stroke
+049v75w11,60,2020,TRUE,National Institute on Aging
+00fq5cm18,58,2020,TRUE,National Institute on Drug Abuse
+001xhss06,57,2020,TRUE,Directorate for Biological Sciences
+02z5nhe81,53,2020,TRUE,National Oceanic and Atmospheric Administration
+04xeg9z08,44,2020,TRUE,National Institute of Mental Health
+00adh9b73,42,2020,TRUE,National Institute of Diabetes and Digestive and Kidney Diseases
+033jnv181,41,2020,TRUE,United States Department of Health and Human Services
+04k7dar27,40,2020,TRUE,United States Fish and Wildlife Service
+05p847d66,31,2020,TRUE,Directorate for Geosciences
+0447fe631,31,2020,TRUE,United States Department of Defense
+04pw6fb54,30,2020,TRUE,National Center for Advancing Translational Sciences
+00fj8a872,28,2020,TRUE,Office of the Director
+021adze67,27,2020,TRUE,United States Department of Education
+00baak391,25,2020,TRUE,National Human Genome Research Institute
+00g8hms52,24,2020,TRUE,Administration for Children and Families
+05335sh79,22,2020,TRUE,Office of Juvenile Justice and Delinquency Prevention
+05xpvk416,19,2020,TRUE,National Institute of Standards and Technology
+00rk2pe57,19,2020,TRUE,Office of Naval Research
+01rvays47,18,2020,TRUE,Division of Integrative Organismal Systems
+004a2wv92,18,2020,TRUE,National Institute of Dental and Craniofacial Research
+00b6sbb32,18,2020,TRUE,Directorate for Engineering
+04mhx6838,18,2020,TRUE,National Institute on Deafness and Other Communication Disorders
+03zmjc935,18,2020,TRUE,US Forest Service
+035a68863,17,2020,TRUE,United States Geological Survey
+03wkg3b53,17,2020,TRUE,National Eye Institute
+025kzpk63,17,2020,TRUE,Directorate for Computer & Information Science & Engineering
+05epdh915,16,2020,TRUE,United States Army Research Office
+00372qc85,16,2020,TRUE,National Institute of Biomedical Imaging and Bioengineering
+014bj5w56,16,2020,TRUE,Directorate for STEM Education (EDU)
+01n6e6j62,13,2020,TRUE,United States Agency for International Development
+042twtr12,13,2020,TRUE,Centers for Disease Control and Prevention
+006zn3t30,13,2020,TRUE,National Institute of Arthritis and Musculoskeletal and Skin Diseases
+02d2m2044,12,2020,TRUE,Agricultural Research Service
+044zqqy65,11,2020,TRUE,National Park Service
+02caytj08,11,2020,TRUE,Defense Advanced Research Projects Agency
+02xfw2e90,10,2020,TRUE,United States Department of Transportation
+011e9bt93,10,2020,TRUE,United States Air Force Office of Scientific Research
+03w1s3j27,10,2020,TRUE,Integrative Graduate Education and Research Traineeship
+03v0pmy70,9,2020,TRUE,United States Department of the Interior
+03ccbtk93,8,2020,TRUE,Joint Fire Science Program
+0599wfz09,8,2020,TRUE,Animal and Plant Health Inspection Service
+04qn9mx93,8,2020,TRUE,Division of Biological Infrastructure
+03tns0030,8,2020,TRUE,Environmental Protection Agency
+0114b2m14,8,2020,TRUE,Office of Biological and Environmental Research
+02jzrsm59,8,2020,TRUE,National Institute on Alcohol Abuse and Alcoholism
+011hc8f90,7,2020,TRUE,DEVCOM Army Research Laboratory
+0060t0j89,7,2020,TRUE,United States National Library of Medicine
+029b7h395,6,2020,TRUE,Directorate for Mathematical & Physical Sciences
+01qa5ep47,6,2020,TRUE,Materials Research Science and Engineering Centers
+05mbkbj54,6,2020,TRUE,United States Department of Labor
+0493hgw16,6,2020,TRUE,National Institute on Minority Health and Health Disparities
+04evh7y43,6,2020,TRUE,Division of Acquisition and Cooperative Support
+05xf94514,6,2020,TRUE,United States Public Health Service
+04et59085,6,2020,TRUE,Institute of Education Sciences
+03h7mcc28,6,2020,TRUE,"Directorate for Social, Behavioral & Economic Sciences"
+05w4e8v21,6,2020,TRUE,United States Army Corps of Engineers
+00mmn6b08,6,2020,TRUE,Office of Science
+03q1rgc19,5,2020,TRUE,Advanced Research Projects Agency-Energy
+02s42ys89,5,2020,TRUE,Pacific Northwest Research Station
+034xvzb47,5,2020,TRUE,United States Food and Drug Administration
+05v3mvq14,5,2020,TRUE,National Energy Research Scientific Computing Center
+04b7xxn32,5,2020,TRUE,United States Social Security Administration
+01v3fsc55,4,2020,TRUE,Office of the Director of National Intelligence
+014geb094,4,2020,TRUE,Fulbright Program
+03g2zjp07,4,2020,TRUE,Congressionally Directed Medical Research Programs
+0471zv972,3,2020,TRUE,"Division of Chemical, Bioengineering, Environmental, and Transport Systems"
+04hccab49,3,2020,TRUE,NASA Research Park
+041nk4h53,3,2020,TRUE,Lawrence Livermore National Laboratory
+00ezrrm21,3,2020,TRUE,United States Bureau of Reclamation
+04dh3fc08,3,2020,TRUE,Office of the Secretary of Health and Human Services
+05fnzca26,3,2020,TRUE,Antarctic Sciences
+03j7rgg33,3,2020,TRUE,Natural Resources Conservation Service
+045s99b94,3,2020,TRUE,NASA Earth Science
+037gd6g64,3,2020,TRUE,Division of Atmospheric and Geospace Sciences
+04j23ff69,3,2020,TRUE,Alaska Sea Grant
+02xey9a22,3,2020,TRUE,Fogarty International Center
+02rdkx920,3,2020,TRUE,United States Army Combat Capabilities Development Command
+00v8p7w89,3,2020,TRUE,National Institute of Justice
+02trddg58,2,2020,TRUE,Arctic Sciences
+006gmme17,2,2020,TRUE,United States Air Force
+03ar0mv07,2,2020,TRUE,United States Department of the Navy
+047fr0y29,2,2020,TRUE,Washington Sea Grant
+037bamf06,2,2020,TRUE,NOAA Global Ocean Monitoring and Observing Program
+01tnvpc68,2,2020,TRUE,Emerging Frontiers Office
+05ehhzx21,2,2020,TRUE,"U.S. Geological Survey, Alaska Science Center"
+01973x930,2,2020,TRUE,United States Department of the Air Force
+02a0fwv66,2,2020,TRUE,American Institute of Mathematics
+05vw05p26,2,2020,TRUE,National Wildlife Research Center
+04r5s4b52,2,2020,TRUE,Center for Scientific Review
+05c6y9623,2,2020,TRUE,Virginia Sea Grant
+03w6nzd18,2,2020,TRUE,Cerro Tololo Inter-American Observatory
+027mhn368,2,2020,TRUE,U.S. Army Engineer Research and Development Center
+05rsv9s98,2,2020,TRUE,United States Department of Veterans Affairs
+02kgve346,1,2020,TRUE,NOAA Oceanic and Atmospheric Research
+04ggd2r74,1,2020,TRUE,Office of Marine and Aviation Operations
+01y3zfr79,1,2020,TRUE,National Institute of Nursing Research
+04xm1d337,1,2020,TRUE,Joint Genome Institute
+0502a2655,1,2020,TRUE,National Institute for Occupational Safety and Health
+022d75229,1,2020,TRUE,NOAA National Marine Fisheries Service Southwest Fisheries Science Center
+01ca2by25,1,2020,TRUE,Great Lakes Bioenergy Research Center
+04chq2495,1,2020,TRUE,United States Department of Commerce
+00wks2x74,1,2020,TRUE,Indiana Space Grant Consortium
+027k65916,1,2020,TRUE,Jet Propulsion Laboratory
+053598c22,1,2020,TRUE,University of Hawaiʻi Sea Grant
+0225cwm17,1,2020,TRUE,Pennsylvania Space Grant Consortium
+01d947q34,1,2020,TRUE,Water Power Technologies Office
+04dpymk59,1,2020,TRUE,National Agricultural Statistics Service
+002jdaq33,1,2020,TRUE,Division of Molecular & Cellular Biosciences
+05p9bjd64,1,2020,TRUE,Office of Policy
+033mqx355,1,2020,TRUE,NOAA National Marine Fisheries Service
+01e41cf67,1,2020,TRUE,Los Alamos National Laboratory
+04jaeeg73,1,2020,TRUE,Wyoming Space Grant Consortium
+00xfvky15,1,2020,TRUE,Ohio Sea Grant College Program
+05ycxzd89,1,2020,TRUE,Economic Research Service
+05aq6yn88,1,2020,TRUE,Office of Extramural Research
+03cd02q50,1,2020,TRUE,United States Army Medical Research and Development Command
+028rfb880,1,2020,TRUE,Office of Secretary of Energy
+051fftw81,1,2020,TRUE,Division of Mathematical Sciences
+05q0y0j38,1,2020,TRUE,Federal Aviation Administration
+020fhsn68,1,2020,TRUE,Research Experiences for Undergraduates
+01k638r21,1,2020,TRUE,Office of International Science and Engineering
+023ny1p48,1,2020,TRUE,"National Heart, Lung, and Blood Institute Division of Intramural Research"
+025g6sc95,1,2020,FALSE,President's Emergency Plan for AIDS Relief
+00apvva27,1,2020,TRUE,National Science Board
+02yn1nr06,1,2020,TRUE,California Sea Grant
+04347cr60,1,2020,TRUE,Rocky Mountain Research Station
+00f93gc02,1,2020,TRUE,Vehicle Technologies Office
+05wgkzg12,1,2020,TRUE,Division of Behavioral and Cognitive Sciences
+04vfsmv21,1,2020,TRUE,National Institutes of Health Clinical Center
+04rc0xn13,93724,2021,TRUE,Environmental Molecular Sciences Laboratory
+028rfb880,8409,2021,TRUE,Office of Secretary of Energy
+021nxhr62,4364,2021,TRUE,National Science Foundation
+027ka1x80,1477,2021,TRUE,National Aeronautics and Space Administration
+05wqqhv83,794,2021,TRUE,Division of Ocean Sciences
+01cwqze88,427,2021,TRUE,National Institutes of Health
+02916qm60,202,2021,TRUE,United States Department of Justice
+04q48ey07,166,2021,TRUE,National Institute of General Medical Sciences
+05qx3fv49,139,2021,TRUE,National Institute of Food and Agriculture
+00b6sbb32,135,2021,TRUE,Directorate for Engineering
+05nwjp114,126,2021,TRUE,Office of Polar Programs
+01na82s61,123,2021,TRUE,United States Department of Agriculture
+001xhss06,117,2021,TRUE,Directorate for Biological Sciences
+02z5nhe81,100,2021,TRUE,National Oceanic and Atmospheric Administration
+012pb6c26,99,2021,TRUE,National Heart Lung and Blood Institute
+04byxyr05,90,2021,TRUE,Eunice Kennedy Shriver National Institute of Child Health and Human Development
+040gcmg81,88,2021,TRUE,National Cancer Institute
+01bj3aw27,85,2021,TRUE,United States Department of Energy
+043z4tv69,85,2021,TRUE,National Institute of Allergy and Infectious Diseases
+00adh9b73,79,2021,TRUE,National Institute of Diabetes and Digestive and Kidney Diseases
+05p847d66,78,2021,TRUE,Directorate for Geosciences
+01s5ya894,75,2021,TRUE,National Institute of Neurological Disorders and Stroke
+049v75w11,70,2021,TRUE,National Institute on Aging
+00vf4jm23,66,2021,TRUE,Administration for Community Living
+04mhx6838,51,2021,TRUE,National Institute on Deafness and Other Communication Disorders
+00j4k1h63,48,2021,TRUE,National Institute of Environmental Health Sciences
+03g87he71,45,2021,TRUE,Division of Environmental Biology
+03wkg3b53,41,2021,TRUE,National Eye Institute
+04xeg9z08,41,2021,TRUE,National Institute of Mental Health
+042twtr12,40,2021,TRUE,Centers for Disease Control and Prevention
+00fj8a872,38,2021,TRUE,Office of the Director
+021adze67,37,2021,TRUE,United States Department of Education
+00fq5cm18,35,2021,TRUE,National Institute on Drug Abuse
+035a68863,32,2021,TRUE,United States Geological Survey
+04pw6fb54,32,2021,TRUE,National Center for Advancing Translational Sciences
+01ar8dr59,29,2021,TRUE,Division of Chemistry
+04k7dar27,28,2021,TRUE,United States Fish and Wildlife Service
+033jnv181,27,2021,TRUE,United States Department of Health and Human Services
+014bj5w56,24,2021,TRUE,Directorate for STEM Education (EDU)
+00g8hms52,22,2021,TRUE,Administration for Children and Families
+02jzrsm59,22,2021,TRUE,National Institute on Alcohol Abuse and Alcoholism
+03zmjc935,20,2021,TRUE,US Forest Service
+00rk2pe57,18,2021,TRUE,Office of Naval Research
+05335sh79,17,2021,TRUE,Office of Juvenile Justice and Delinquency Prevention
+0060t0j89,16,2021,TRUE,United States National Library of Medicine
+04et59085,16,2021,TRUE,Institute of Education Sciences
+04evh7y43,16,2021,TRUE,Division of Acquisition and Cooperative Support
+00372qc85,16,2021,TRUE,National Institute of Biomedical Imaging and Bioengineering
+044zqqy65,14,2021,TRUE,National Park Service
+0447fe631,14,2021,TRUE,United States Department of Defense
+004a2wv92,13,2021,TRUE,National Institute of Dental and Craniofacial Research
+01n6e6j62,13,2021,TRUE,United States Agency for International Development
+02d2m2044,12,2021,TRUE,Agricultural Research Service
+006zn3t30,12,2021,TRUE,National Institute of Arthritis and Musculoskeletal and Skin Diseases
+05epdh915,11,2021,TRUE,United States Army Research Office
+03v0pmy70,11,2021,TRUE,United States Department of the Interior
+02caytj08,10,2021,TRUE,Defense Advanced Research Projects Agency
+00baak391,9,2021,TRUE,National Human Genome Research Institute
+02xfw2e90,9,2021,TRUE,United States Department of Transportation
+035w1gb98,7,2021,TRUE,United States Department of the Army
+03tns0030,7,2021,TRUE,Environmental Protection Agency
+05v01mk25,7,2021,TRUE,Division of Earth Sciences
+011e9bt93,6,2021,TRUE,United States Air Force Office of Scientific Research
+00mmn6b08,6,2021,TRUE,Office of Science
+01qa5ep47,5,2021,TRUE,Materials Research Science and Engineering Centers
+02yn1nr06,5,2021,TRUE,California Sea Grant
+046107075,5,2021,TRUE,Oregon Sea Grant
+03ar0mv07,5,2021,TRUE,United States Department of the Navy
+00v8p7w89,5,2021,TRUE,National Institute of Justice
+01rvays47,5,2021,TRUE,Division of Integrative Organismal Systems
+03ccbtk93,5,2021,TRUE,Joint Fire Science Program
+041nk4h53,5,2021,TRUE,Lawrence Livermore National Laboratory
+03q1rgc19,4,2021,TRUE,Advanced Research Projects Agency-Energy
+02xey9a22,4,2021,TRUE,Fogarty International Center
+0599wfz09,4,2021,TRUE,Animal and Plant Health Inspection Service
+0502a2655,4,2021,TRUE,National Institute for Occupational Safety and Health
+05xpvk416,4,2021,TRUE,National Institute of Standards and Technology
+01kgxxx41,3,2021,TRUE,North Carolina Sea Grant
+05mg91w61,3,2021,TRUE,Office of Basic Energy Sciences
+03jmfdf59,3,2021,TRUE,Agency for Healthcare Research and Quality
+00whkrf32,3,2021,TRUE,Division of Graduate Education
+006gmme17,3,2021,TRUE,United States Air Force
+019jdc178,3,2021,TRUE,Northern Research Station
+05wgkzg12,3,2021,TRUE,Division of Behavioral and Cognitive Sciences
+00190t495,3,2021,TRUE,National Center for Complementary and Integrative Health
+05fnzca26,3,2021,TRUE,Antarctic Sciences
+05rsv9s98,3,2021,TRUE,United States Department of Veterans Affairs
+00ezrrm21,3,2021,TRUE,United States Bureau of Reclamation
+02e3wq066,3,2021,TRUE,Division of Program Coordination Planning and Strategic Initiatives
+03sk1we31,2,2021,TRUE,National Nuclear Security Administration
+050m26017,2,2021,TRUE,Farm Service Agency
+00afsp483,2,2021,TRUE,United States Army
+01973x930,2,2021,TRUE,United States Department of the Air Force
+03j9e2j92,2,2021,TRUE,Stennis Space Center
+022ethc91,2,2021,TRUE,Southern Research Station
+04xm1d337,2,2021,TRUE,Joint Genome Institute
+00q4sx826,2,2021,TRUE,Office of the Secretary of Defense
+029b7h395,2,2021,TRUE,Directorate for Mathematical & Physical Sciences
+04dh3fc08,2,2021,TRUE,Office of the Secretary of Health and Human Services
+03g2zjp07,2,2021,TRUE,Congressionally Directed Medical Research Programs
+047fr0y29,2,2021,TRUE,Washington Sea Grant
+04k9mqs78,2,2021,TRUE,Office of Integrative Activities
+01qrpsa36,2,2021,TRUE,Bioenergy Technologies Office
+0493hgw16,2,2021,TRUE,National Institute on Minority Health and Health Disparities
+02e2egq70,1,2021,TRUE,United States Air Force Research Laboratory
+04jaeeg73,1,2021,TRUE,Wyoming Space Grant Consortium
+04rw5yk74,1,2021,TRUE,Yellowstone National Park
+022d75229,1,2021,TRUE,NOAA National Marine Fisheries Service Southwest Fisheries Science Center
+02s42ys89,1,2021,TRUE,Pacific Northwest Research Station
+051fftw81,1,2021,TRUE,Division of Mathematical Sciences
+02trddg58,1,2021,TRUE,Arctic Sciences
+03xyg3m20,1,2021,TRUE,Division of Industrial Innovation & Partnerships
+03f9f1d95,1,2021,TRUE,Air Force Institute of Technology
+03j7rgg33,1,2021,TRUE,Natural Resources Conservation Service
+045by4v54,1,2021,TRUE,Louisiana Sea Grant
+04nseet23,1,2021,TRUE,Office of the Director
+053598c22,1,2021,TRUE,University of Hawaiʻi Sea Grant
+01p7gwa14,1,2021,TRUE,NASA Shared Services Center
+05b1jpg49,1,2021,TRUE,Idaho Space Grant Consortium
+01sy5zn44,1,2021,TRUE,Bureau of Land Management
+033mqx355,1,2021,TRUE,NOAA National Marine Fisheries Service
+02k4h0334,1,2021,TRUE,NOAA National Ocean Service
+01ca2by25,1,2021,TRUE,Great Lakes Bioenergy Research Center
+05v14bq57,1,2021,TRUE,NOAA Office for Coastal Management
+05hhm9a98,1,2021,TRUE,Savannah River Operations Office
+01h7fye62,1,2021,TRUE,NOAA National Marine Fisheries Service Alaska Fisheries Science Center
+02rdkx920,1,2021,TRUE,United States Army Combat Capabilities Development Command
+04tz64554,1,2021,TRUE,Defense Threat Reduction Agency
+01v3fsc55,1,2021,TRUE,Office of the Director of National Intelligence
+037f7zx95,1,2021,TRUE,New Hampshire Sea Grant
+05wk0m864,1,2021,TRUE,Cold Regions Research and Engineering Laboratory
+011hc8f90,1,2021,TRUE,DEVCOM Army Research Laboratory
+04x68p008,1,2021,TRUE,Edward T. Schafer Agricultural Research Center
+027mhn368,1,2021,TRUE,U.S. Army Engineer Research and Development Center
+01y3zfr79,1,2021,TRUE,National Institute of Nursing Research
+0114b2m14,1,2021,TRUE,Office of Biological and Environmental Research
+01qz5mb56,1,2021,TRUE,Oak Ridge National Laboratory
+014a5gx79,1,2021,TRUE,United States Department of Housing and Urban Development
+01tnvpc68,1,2021,TRUE,Emerging Frontiers Office
+00znex860,1,2021,TRUE,United States Naval Academy
+03w6nzd18,1,2021,TRUE,Cerro Tololo Inter-American Observatory
+034xvzb47,1,2021,TRUE,United States Food and Drug Administration
+05jnma812,1,2021,TRUE,"Office of Planning, Research and Evaluation"
+02a0fwv66,1,2021,TRUE,American Institute of Mathematics
+00apvva27,1,2021,TRUE,National Science Board
+03eecgp81,1,2021,TRUE,Office of Under Secretary of Energy for Science
+0171mag52,1,2021,TRUE,Goddard Space Flight Center
+027k65916,1,2021,TRUE,Jet Propulsion Laboratory
+058465397,1,2021,TRUE,North Carolina Space Grant Consortium
+04347cr60,1,2021,TRUE,Rocky Mountain Research Station
+04kz4p343,1,2021,TRUE,Institute for Collaborative Biotechnologies
+04rc0xn13,142686,2022,TRUE,Environmental Molecular Sciences Laboratory
+021nxhr62,3587,2022,TRUE,National Science Foundation
+027ka1x80,1702,2022,TRUE,National Aeronautics and Space Administration
+01cwqze88,923,2022,TRUE,National Institutes of Health
+04q48ey07,545,2022,TRUE,National Institute of General Medical Sciences
+05wqqhv83,495,2022,TRUE,Division of Ocean Sciences
+02916qm60,299,2022,TRUE,United States Department of Justice
+049v75w11,176,2022,TRUE,National Institute on Aging
+01na82s61,174,2022,TRUE,United States Department of Agriculture
+05nwjp114,166,2022,TRUE,Office of Polar Programs
+05qx3fv49,133,2022,TRUE,National Institute of Food and Agriculture
+00vf4jm23,107,2022,TRUE,Administration for Community Living
+01s5ya894,106,2022,TRUE,National Institute of Neurological Disorders and Stroke
+04byxyr05,102,2022,TRUE,Eunice Kennedy Shriver National Institute of Child Health and Human Development
+01bj3aw27,95,2022,TRUE,United States Department of Energy
+012pb6c26,79,2022,TRUE,National Heart Lung and Blood Institute
+043z4tv69,73,2022,TRUE,National Institute of Allergy and Infectious Diseases
+040gcmg81,70,2022,TRUE,National Cancer Institute
+03wkg3b53,67,2022,TRUE,National Eye Institute
+001xhss06,67,2022,TRUE,Directorate for Biological Sciences
+00b6sbb32,65,2022,TRUE,Directorate for Engineering
+04pw6fb54,61,2022,TRUE,National Center for Advancing Translational Sciences
+00adh9b73,55,2022,TRUE,National Institute of Diabetes and Digestive and Kidney Diseases
+00fq5cm18,53,2022,TRUE,National Institute on Drug Abuse
+04xeg9z08,50,2022,TRUE,National Institute of Mental Health
+04k7dar27,47,2022,TRUE,United States Fish and Wildlife Service
+02z5nhe81,45,2022,TRUE,National Oceanic and Atmospheric Administration
+0493hgw16,42,2022,TRUE,National Institute on Minority Health and Health Disparities
+033jnv181,37,2022,TRUE,United States Department of Health and Human Services
+00baak391,36,2022,TRUE,National Human Genome Research Institute
+03zmjc935,35,2022,TRUE,US Forest Service
+00j4k1h63,35,2022,TRUE,National Institute of Environmental Health Sciences
+00rk2pe57,34,2022,TRUE,Office of Naval Research
+00fj8a872,34,2022,TRUE,Office of the Director
+035a68863,33,2022,TRUE,United States Geological Survey
+05p847d66,31,2022,TRUE,Directorate for Geosciences
+021adze67,31,2022,TRUE,United States Department of Education
+03g87he71,28,2022,TRUE,Division of Environmental Biology
+0447fe631,28,2022,TRUE,United States Department of Defense
+004a2wv92,26,2022,TRUE,National Institute of Dental and Craniofacial Research
+01n6e6j62,21,2022,TRUE,United States Agency for International Development
+011e9bt93,21,2022,TRUE,United States Air Force Office of Scientific Research
+05335sh79,21,2022,TRUE,Office of Juvenile Justice and Delinquency Prevention
+03v0pmy70,19,2022,TRUE,United States Department of the Interior
+02d2m2044,17,2022,TRUE,Agricultural Research Service
+02jzrsm59,16,2022,TRUE,National Institute on Alcohol Abuse and Alcoholism
+00g8hms52,16,2022,TRUE,Administration for Children and Families
+00372qc85,14,2022,TRUE,National Institute of Biomedical Imaging and Bioengineering
+04mhx6838,14,2022,TRUE,National Institute on Deafness and Other Communication Disorders
+0060t0j89,14,2022,TRUE,United States National Library of Medicine
+042twtr12,13,2022,TRUE,Centers for Disease Control and Prevention
+0114b2m14,12,2022,TRUE,Office of Biological and Environmental Research
+05r5c7c30,12,2022,TRUE,"National Institute on Disability, Independent Living, and Rehabilitation Research"
+014bj5w56,11,2022,TRUE,Directorate for STEM Education (EDU)
+02caytj08,11,2022,TRUE,Defense Advanced Research Projects Agency
+006zn3t30,11,2022,TRUE,National Institute of Arthritis and Musculoskeletal and Skin Diseases
+01rvays47,11,2022,TRUE,Division of Integrative Organismal Systems
+02xfw2e90,11,2022,TRUE,United States Department of Transportation
+05epdh915,10,2022,TRUE,United States Army Research Office
+04et59085,10,2022,TRUE,Institute of Education Sciences
+044zqqy65,9,2022,TRUE,National Park Service
+03tns0030,8,2022,TRUE,Environmental Protection Agency
+00v8p7w89,7,2022,TRUE,National Institute of Justice
+029b7h395,7,2022,TRUE,Directorate for Mathematical & Physical Sciences
+03ar0mv07,6,2022,TRUE,United States Department of the Navy
+0599wfz09,6,2022,TRUE,Animal and Plant Health Inspection Service
+034xvzb47,6,2022,TRUE,United States Food and Drug Administration
+03q1rgc19,5,2022,TRUE,Advanced Research Projects Agency-Energy
+01tnvpc68,5,2022,TRUE,Emerging Frontiers Office
+00whkrf32,5,2022,TRUE,Division of Graduate Education
+05mg91w61,5,2022,TRUE,Office of Basic Energy Sciences
+00mmn6b08,5,2022,TRUE,Office of Science
+03g2zjp07,4,2022,TRUE,Congressionally Directed Medical Research Programs
+04dh3fc08,4,2022,TRUE,Office of the Secretary of Health and Human Services
+03ccbtk93,4,2022,TRUE,Joint Fire Science Program
+011hc8f90,4,2022,TRUE,DEVCOM Army Research Laboratory
+05rsv9s98,4,2022,TRUE,United States Department of Veterans Affairs
+03jmfdf59,4,2022,TRUE,Agency for Healthcare Research and Quality
+03cd02q50,4,2022,TRUE,United States Army Medical Research and Development Command
+04qn9mx93,3,2022,TRUE,Division of Biological Infrastructure
+05eq41471,3,2022,TRUE,Veterans Health Administration
+04nseet23,3,2022,TRUE,Office of the Director
+05jnma812,3,2022,TRUE,"Office of Planning, Research and Evaluation"
+03j7rgg33,3,2022,TRUE,Natural Resources Conservation Service
+02kgve346,3,2022,TRUE,NOAA Oceanic and Atmospheric Research
+00ezrrm21,3,2022,TRUE,United States Bureau of Reclamation
+01sy5zn44,3,2022,TRUE,Bureau of Land Management
+00mmmy130,3,2022,TRUE,NOAA Climate Program Office
+01ca2by25,3,2022,TRUE,Great Lakes Bioenergy Research Center
+041nk4h53,3,2022,TRUE,Lawrence Livermore National Laboratory
+05v01mk25,3,2022,TRUE,Division of Earth Sciences
+05q0y0j38,3,2022,TRUE,Federal Aviation Administration
+05c6y9623,3,2022,TRUE,Virginia Sea Grant
+021jr9c59,3,2022,TRUE,National Cooperative Geologic Mapping Program
+00wtjmd03,2,2022,TRUE,Western Wildland Environmental Threat Assessment Center
+014geb094,2,2022,TRUE,Fulbright Program
+04nh1dc89,2,2022,TRUE,Division of Advanced Cyberinfrastructure
+035w1gb98,2,2022,TRUE,United States Department of the Army
+01ds51411,2,2022,TRUE,Texas Sea Grant College Program
+05tj7dm33,2,2022,TRUE,Office of Nuclear Energy
+00190t495,2,2022,TRUE,National Center for Complementary and Integrative Health
+02apffz65,2,2022,TRUE,NOAA National Marine Fisheries Service Pacific Islands Fisheries Science Center
+047fr0y29,2,2022,TRUE,Washington Sea Grant
+05vw05p26,2,2022,TRUE,National Wildlife Research Center
+05ycxzd89,2,2022,TRUE,Economic Research Service
+031m8s392,2,2022,TRUE,New York Sea Grant
+02yn1nr06,2,2022,TRUE,California Sea Grant
+033mqx355,2,2022,TRUE,NOAA National Marine Fisheries Service
+02xey9a22,2,2022,TRUE,Fogarty International Center
+0171mag52,2,2022,TRUE,Goddard Space Flight Center
+05w4e8v21,2,2022,TRUE,United States Army Corps of Engineers
+02trddg58,2,2022,TRUE,Arctic Sciences
+025kzpk63,2,2022,TRUE,Directorate for Computer & Information Science & Engineering
+0006s4z66,2,2022,TRUE,Bureau of Justice Statistics
+014a5gx79,1,2022,TRUE,United States Department of Housing and Urban Development
+01pc7k308,1,2022,TRUE,Division of Materials Research
+01x26mz03,1,2022,TRUE,National Energy Technology Laboratory
+0145znz58,1,2022,TRUE,Walter Reed Army Institute of Research
+05222ev03,1,2022,TRUE,Risk Management Agency
+04950b532,1,2022,TRUE,NOAA National Marine Fisheries Service Office of Science and Technology
+01g9x3v85,1,2022,TRUE,Federal Emergency Management Agency
+04vzsq290,1,2022,TRUE,Mississippi Alabama Sea Grant Consortium
+00afsp483,1,2022,TRUE,United States Army
+00jyr0d86,1,2022,TRUE,United States Department of Homeland Security
+03crn0n59,1,2022,TRUE,NOAA Pacific Marine Environmental Laboratory
+0396y0w87,1,2022,TRUE,NOAA National Marine Fisheries Service Southeast Fisheries Science Center
+02nc0ck44,1,2022,TRUE,NOAA National Marine Fisheries Service Northeast Fisheries Science Center
+001d55x84,1,2022,TRUE,NIH Common Fund
+04g3ykc66,1,2022,TRUE,Maine Sea Grant
+00bdqav06,1,2022,TRUE,Cooperative Institute for Research in Environmental Sciences
+01mng8331,1,2022,TRUE,Division of Computing and Communication Foundations
+04xm1d337,1,2022,TRUE,Joint Genome Institute
+0399mhs52,1,2022,TRUE,Langley Research Center
+045s99b94,1,2022,TRUE,NASA Earth Science
+041hkjs21,1,2022,TRUE,Geosciences and Environmental Change Science Center
+01kgxxx41,1,2022,TRUE,North Carolina Sea Grant
+027k65916,1,2022,TRUE,Jet Propulsion Laboratory
+037gd6g64,1,2022,TRUE,Division of Atmospheric and Geospace Sciences
+027mhn368,1,2022,TRUE,U.S. Army Engineer Research and Development Center
+023czga33,1,2022,TRUE,Climate Adaptation Science Centers
+04vfsmv21,1,2022,TRUE,National Institutes of Health Clinical Center
+05xqpda80,1,2022,TRUE,Office of Ocean Exploration and Research
+012rb2c33,1,2022,TRUE,U.S. President's Malaria Initiative
+006gmme17,1,2022,TRUE,United States Air Force
+037bamf06,1,2022,TRUE,NOAA Global Ocean Monitoring and Observing Program
+04kz4p343,1,2022,TRUE,Institute for Collaborative Biotechnologies
+05v14bq57,1,2022,TRUE,NOAA Office for Coastal Management
+04k9mqs78,1,2022,TRUE,Office of Integrative Activities
+03vvynj75,1,2022,TRUE,United States Department of State
+01jdyfj45,1,2022,TRUE,Office of Research Infrastructure Programs
+02e2egq70,1,2022,TRUE,United States Air Force Research Laboratory
+019jdc178,1,2022,TRUE,Northern Research Station
+03hjnwv43,1,2022,TRUE,Arkansas Space Grant Consortium
+0593xbv16,1,2022,TRUE,United States Army Futures Command
+04rw5yk74,1,2022,TRUE,Yellowstone National Park
+04347cr60,1,2022,TRUE,Rocky Mountain Research Station
+05b1jpg49,1,2022,TRUE,Idaho Space Grant Consortium
+04jaeeg73,1,2022,TRUE,Wyoming Space Grant Consortium
+011qyt180,1,2022,TRUE,VA Office of Research and Development
+02e3wq066,1,2022,TRUE,Division of Program Coordination Planning and Strategic Initiatives
+05fnzca26,1,2022,TRUE,Antarctic Sciences
+021nxhr62,4616,2023,TRUE,National Science Foundation
+027ka1x80,2194,2023,TRUE,National Aeronautics and Space Administration
+04rc0xn13,1675,2023,TRUE,Environmental Molecular Sciences Laboratory
+01cwqze88,1423,2023,TRUE,National Institutes of Health
+05wqqhv83,468,2023,TRUE,Division of Ocean Sciences
+040gcmg81,437,2023,TRUE,National Cancer Institute
+04q48ey07,376,2023,TRUE,National Institute of General Medical Sciences
+02916qm60,334,2023,TRUE,United States Department of Justice
+04xeg9z08,257,2023,TRUE,National Institute of Mental Health
+001xhss06,224,2023,TRUE,Directorate for Biological Sciences
+04byxyr05,203,2023,TRUE,Eunice Kennedy Shriver National Institute of Child Health and Human Development
+01bj3aw27,201,2023,TRUE,United States Department of Energy
+05qx3fv49,189,2023,TRUE,National Institute of Food and Agriculture
+043z4tv69,183,2023,TRUE,National Institute of Allergy and Infectious Diseases
+01s5ya894,180,2023,TRUE,National Institute of Neurological Disorders and Stroke
+00adh9b73,169,2023,TRUE,National Institute of Diabetes and Digestive and Kidney Diseases
+01na82s61,167,2023,TRUE,United States Department of Agriculture
+05nwjp114,130,2023,TRUE,Office of Polar Programs
+012pb6c26,115,2023,TRUE,National Heart Lung and Blood Institute
+049v75w11,89,2023,TRUE,National Institute on Aging
+02z5nhe81,84,2023,TRUE,National Oceanic and Atmospheric Administration
+05p847d66,69,2023,TRUE,Directorate for Geosciences
+00b6sbb32,64,2023,TRUE,Directorate for Engineering
+00baak391,53,2023,TRUE,National Human Genome Research Institute
+03wkg3b53,53,2023,TRUE,National Eye Institute
+00fq5cm18,52,2023,TRUE,National Institute on Drug Abuse
+00j4k1h63,51,2023,TRUE,National Institute of Environmental Health Sciences
+04k7dar27,49,2023,TRUE,United States Fish and Wildlife Service
+00rk2pe57,45,2023,TRUE,Office of Naval Research
+025kzpk63,42,2023,TRUE,Directorate for Computer & Information Science & Engineering
+00mmn6b08,41,2023,TRUE,Office of Science
+0493hgw16,39,2023,TRUE,National Institute on Minority Health and Health Disparities
+011e9bt93,38,2023,TRUE,United States Air Force Office of Scientific Research
+04mhx6838,38,2023,TRUE,National Institute on Deafness and Other Communication Disorders
+035a68863,34,2023,TRUE,United States Geological Survey
+00fj8a872,34,2023,TRUE,Office of the Director
+021adze67,34,2023,TRUE,United States Department of Education
+00vf4jm23,31,2023,TRUE,Administration for Community Living
+04pw6fb54,30,2023,TRUE,National Center for Advancing Translational Sciences
+0114b2m14,30,2023,TRUE,Office of Biological and Environmental Research
+01n6e6j62,29,2023,TRUE,United States Agency for International Development
+03g87he71,28,2023,TRUE,Division of Environmental Biology
+02d2m2044,26,2023,TRUE,Agricultural Research Service
+004a2wv92,26,2023,TRUE,National Institute of Dental and Craniofacial Research
+02jzrsm59,26,2023,TRUE,National Institute on Alcohol Abuse and Alcoholism
+00g8hms52,25,2023,TRUE,Administration for Children and Families
+014bj5w56,25,2023,TRUE,Directorate for STEM Education (EDU)
+0447fe631,25,2023,TRUE,United States Department of Defense
+05mg91w61,22,2023,TRUE,Office of Basic Energy Sciences
+03tns0030,22,2023,TRUE,Environmental Protection Agency
+00372qc85,19,2023,TRUE,National Institute of Biomedical Imaging and Bioengineering
+042twtr12,19,2023,TRUE,Centers for Disease Control and Prevention
+03v0pmy70,19,2023,TRUE,United States Department of the Interior
+044zqqy65,18,2023,TRUE,National Park Service
+006zn3t30,18,2023,TRUE,National Institute of Arthritis and Musculoskeletal and Skin Diseases
+05epdh915,18,2023,TRUE,United States Army Research Office
+05rsv9s98,18,2023,TRUE,United States Department of Veterans Affairs
+03zmjc935,16,2023,TRUE,US Forest Service
+04et59085,15,2023,TRUE,Institute of Education Sciences
+00190t495,15,2023,TRUE,National Center for Complementary and Integrative Health
+05w4e8v21,14,2023,TRUE,United States Army Corps of Engineers
+02caytj08,14,2023,TRUE,Defense Advanced Research Projects Agency
+01rvays47,13,2023,TRUE,Division of Integrative Organismal Systems
+03h7mcc28,13,2023,TRUE,"Directorate for Social, Behavioral & Economic Sciences"
+03ccbtk93,13,2023,TRUE,Joint Fire Science Program
+033mqx355,13,2023,TRUE,NOAA National Marine Fisheries Service
+04nseet23,12,2023,TRUE,Office of the Director
+04chq2495,11,2023,TRUE,United States Department of Commerce
+033jnv181,11,2023,TRUE,United States Department of Health and Human Services
+00v8p7w89,11,2023,TRUE,National Institute of Justice
+029b7h395,11,2023,TRUE,Directorate for Mathematical & Physical Sciences
+02xfw2e90,10,2023,TRUE,United States Department of Transportation
+0012c7r22,10,2023,TRUE,Office of Advanced Scientific Computing Research
+02kgve346,10,2023,TRUE,NOAA Oceanic and Atmospheric Research
+03g2zjp07,10,2023,TRUE,Congressionally Directed Medical Research Programs
+05v01mk25,9,2023,TRUE,Division of Earth Sciences
+04tz64554,8,2023,TRUE,Defense Threat Reduction Agency
+05335sh79,8,2023,TRUE,Office of Juvenile Justice and Delinquency Prevention
+05ycxzd89,8,2023,TRUE,Economic Research Service
+03q1rgc19,8,2023,TRUE,Advanced Research Projects Agency-Energy
+03ar0mv07,8,2023,TRUE,United States Department of the Navy
+04b7xxn32,7,2023,TRUE,United States Social Security Administration
+03j7rgg33,7,2023,TRUE,Natural Resources Conservation Service
+01e41cf67,7,2023,TRUE,Los Alamos National Laboratory
+01p7gwa14,7,2023,TRUE,NASA Shared Services Center
+05r5c7c30,7,2023,TRUE,"National Institute on Disability, Independent Living, and Rehabilitation Research"
+0060t0j89,7,2023,TRUE,United States National Library of Medicine
+02xey9a22,6,2023,TRUE,Fogarty International Center
+01ca2by25,6,2023,TRUE,Great Lakes Bioenergy Research Center
+04qn9mx93,6,2023,TRUE,Division of Biological Infrastructure
+05aq6yn88,6,2023,TRUE,Office of Extramural Research
+006gmme17,6,2023,TRUE,United States Air Force
+00ezrrm21,5,2023,TRUE,United States Bureau of Reclamation
+02yn1nr06,5,2023,TRUE,California Sea Grant
+01wjn2x92,4,2023,TRUE,National Center for HIV/AIDS Viral Hepatitis STD and TB Prevention
+02apffz65,4,2023,TRUE,NOAA National Marine Fisheries Service Pacific Islands Fisheries Science Center
+041nk4h53,4,2023,TRUE,Lawrence Livermore National Laboratory
+04dh3fc08,4,2023,TRUE,Office of the Secretary of Health and Human Services
+01sy5zn44,4,2023,TRUE,Bureau of Land Management
+01kgxxx41,3,2023,TRUE,North Carolina Sea Grant
+034xvzb47,3,2023,TRUE,United States Food and Drug Administration
+00q4sx826,3,2023,TRUE,Office of the Secretary of Defense
+03t3qg659,3,2023,TRUE,Substance Abuse and Mental Health Services Administration
+05xpvk416,3,2023,TRUE,National Institute of Standards and Technology
+033jmdj81,3,2023,TRUE,Solar Energy Technologies Office
+04nh1dc89,3,2023,TRUE,Division of Advanced Cyberinfrastructure
+00jyr0d86,3,2023,TRUE,United States Department of Homeland Security
+01jeee804,3,2023,TRUE,NOAA Great Lakes Environmental Research Laboratory
+0171mag52,3,2023,TRUE,Goddard Space Flight Center
+04x68p008,2,2023,TRUE,Edward T. Schafer Agricultural Research Center
+03sk1we31,2,2023,TRUE,National Nuclear Security Administration
+040vxhp34,2,2023,TRUE,Oak Ridge Institute for Science and Education
+02atag894,2,2023,TRUE,Office of Nuclear Physics
+02xznz413,2,2023,TRUE,Office of Energy Efficiency and Renewable Energy
+05wk0m864,2,2023,TRUE,Cold Regions Research and Engineering Laboratory
+036266993,2,2023,TRUE,National Renewable Energy Laboratory
+035w1gb98,2,2023,TRUE,United States Department of the Army
+01973x930,2,2023,TRUE,United States Department of the Air Force
+00bdqav06,2,2023,TRUE,Cooperative Institute for Research in Environmental Sciences
+02y6dp041,2,2023,TRUE,Office of Electricity
+014geb094,2,2023,TRUE,Fulbright Program
+0121dpf30,2,2023,TRUE,Health Resources and Services Administration
+05wgkzg12,2,2023,TRUE,Division of Behavioral and Cognitive Sciences
+04hccab49,2,2023,TRUE,NASA Research Park
+0599wfz09,2,2023,TRUE,Animal and Plant Health Inspection Service
+02jbv0t02,2,2023,TRUE,Lawrence Berkeley National Laboratory
+00apvva27,2,2023,TRUE,National Science Board
+037gd6g64,2,2023,TRUE,Division of Atmospheric and Geospace Sciences
+04g4sf283,2,2023,TRUE,Office of Data Science Strategy
+047fr0y29,2,2023,TRUE,Washington Sea Grant
+03jmfdf59,2,2023,TRUE,Agency for Healthcare Research and Quality
+02s42ys89,2,2023,TRUE,Pacific Northwest Research Station
+05gvkjb48,2,2023,TRUE,Office of the Assistant Secretary for Planning and Evaluation
+059fqnc42,2,2023,TRUE,Glenn Research Center
+00afsp483,2,2023,TRUE,United States Army
+027mhn368,2,2023,TRUE,U.S. Army Engineer Research and Development Center
+058465397,2,2023,TRUE,North Carolina Space Grant Consortium
+028t43p77,2,2023,TRUE,United States Department of the Treasury
+00mmmy130,2,2023,TRUE,NOAA Climate Program Office
+011hc8f90,2,2023,TRUE,DEVCOM Army Research Laboratory
+0471zv972,1,2023,TRUE,"Division of Chemical, Bioengineering, Environmental, and Transport Systems"
+02meqm098,1,2023,TRUE,National Center for Biotechnology Information
+00wtjmd03,1,2023,TRUE,Western Wildland Environmental Threat Assessment Center
+022d75229,1,2023,TRUE,NOAA National Marine Fisheries Service Southwest Fisheries Science Center
+04vfsmv21,1,2023,TRUE,National Institutes of Health Clinical Center
+02e2egq70,1,2023,TRUE,United States Air Force Research Laboratory
+051fftw81,1,2023,TRUE,Division of Mathematical Sciences
+0014w1417,1,2023,TRUE,Georgia Sea Grant
+04347cr60,1,2023,TRUE,Rocky Mountain Research Station
+03vvynj75,1,2023,TRUE,United States Department of State
+0249rpb20,1,2023,TRUE,Mississippi Space Grant Consortium
+05xf94514,1,2023,TRUE,United States Public Health Service
+0539h2w52,1,2023,TRUE,Naval Facilities Engineering Command
+022ethc91,1,2023,TRUE,Southern Research Station
+01k32vr40,1,2023,TRUE,Bureau of International Narcotics and Law Enforcement Affairs
+00f93gc02,1,2023,TRUE,Vehicle Technologies Office
+05eq41471,1,2023,TRUE,Veterans Health Administration
+029y69023,1,2023,TRUE,Biomedical Advanced Research and Development Authority
+04bgwn153,1,2023,TRUE,NOAA Office of National Marine Sanctuaries
+02kd4km72,1,2023,TRUE,Division of Undergraduate Education
+01jdyfj45,1,2023,TRUE,Office of Research Infrastructure Programs
+05hhm9a98,1,2023,TRUE,Savannah River Operations Office
+037bamf06,1,2023,TRUE,NOAA Global Ocean Monitoring and Observing Program
+05c6y9623,1,2023,TRUE,Virginia Sea Grant
+05gvnxz63,1,2023,TRUE,Argonne National Laboratory
+04ggd2r74,1,2023,TRUE,Office of Marine and Aviation Operations
+03df8gj37,1,2023,TRUE,Defense Health Agency
+01v3fsc55,1,2023,TRUE,Office of the Director of National Intelligence
+02bfn4816,1,2023,TRUE,NOAA Ocean Acidification Program
+057mgcy61,1,2023,TRUE,Michigan Space Grant Consortium
+00x0rjj17,1,2023,TRUE,Montana Space Grant Consortium
+00ew61678,1,2023,TRUE,Strategic Environmental Research and Development Program
+014a5gx79,1,2023,TRUE,United States Department of Housing and Urban Development
+0388pet74,1,2023,TRUE,Office of Emerging Frontiers and Multidisciplinary Activities
+05v14bq57,1,2023,TRUE,NOAA Office for Coastal Management
+04vzsq290,1,2023,TRUE,Mississippi Alabama Sea Grant Consortium
+027k65916,1,2023,TRUE,Jet Propulsion Laboratory
+04k9mqs78,1,2023,TRUE,Office of Integrative Activities
+01qz5mb56,1,2023,TRUE,Oak Ridge National Laboratory
+023ny1p48,1,2023,TRUE,"National Heart, Lung, and Blood Institute Division of Intramural Research"
+01ksx6c70,1,2023,TRUE,Connecticut Sea Grant
+033yfkj90,1,2023,TRUE,Naval Postgraduate School
+008qp6e21,1,2023,TRUE,Rehabilitation Research and Development Service
+025g6sc95,1,2023,FALSE,President's Emergency Plan for AIDS Relief
+01ds51411,1,2023,TRUE,Texas Sea Grant College Program
+05xqpda80,1,2023,TRUE,Office of Ocean Exploration and Research
+04jaeeg73,1,2023,TRUE,Wyoming Space Grant Consortium
+03dm1p143,1,2023,TRUE,Naval Sea Systems Command
+05v3mvq14,1,2023,TRUE,National Energy Research Scientific Computing Center
